@@ -16,11 +16,12 @@ Living with the struggle of ADHD (Attention-Deficit Hyperactive Disorder) made m
 
 That is why I built this project. Adhering to the classic engineering principle of K.I.S.S. (Keep It Simple, Stupid), this ancient art was passed down to me by my father, and his father, and our forefathers. This repository serves as a streamlined TL;DR guide for GitHub-Flavored Markdown.
 
-Whether you are looking to clean up your own repository presentation or just need a quick formatting sanity check, this guide will hopefully strip away the amount of word-salad to give you exactly what you need to know, and what it looks like in practice.
+Whether you are looking to clean up your own repository presentation or just need a quick formatting sanity check, this guide will hopefully strip away the amount of word-salad to give you exactly what you need to know (in Markdown and in HTML where applicable), and what it looks like in practice.
 
+<a name="table-of-contents"></a>
 ## 📖TABLE OF CONTENTS
 * [Introduction](#introduction)
-* Headings
+* [Headings](#headings)
   * Alternate Syntax
   * Heading Best Practices
 * Paragraphs
@@ -71,4 +72,55 @@ Whether you are looking to clean up your own repository presentation or just nee
   * Characters You Can Escape
 * HTML
   * HTML Best Practices
+
+## Headings
+
+Headings are the basis of any kind of formatting. Without headings,
+
+Everything \
+Would look like \
+a Mess \
+Like This \
+
+To add Headings you can use the hash sign (#) to make up to 6 Headings:
+
+```
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+```
+Resulting in this:
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+Alternatively you can also use HTML's way of the heading command like so:
+
+```
+<h1> Heading 1 </h1>
+<h2> Heading 2 </h2>
+<h3> Heading 3 </h3>
+<h4> Heading 4 </h4>
+<h5> Heading 5 </h5>
+<h6> Heading 6 </h6>
+```
+<h1> Heading 1 </h1>
+<h2> Heading 2 </h2>
+<h3> Heading 3 </h3>
+<h4> Heading 4 </h4>
+<h5> Heading 5 </h5>
+<h6> Heading 6 </h6>
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
 
