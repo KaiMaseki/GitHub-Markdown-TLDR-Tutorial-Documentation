@@ -35,6 +35,13 @@ I do hope this helps you all along with how I learned everything by writing this
   * [Nested Blockquotes](#nested-blockquotes)
 * [Code](#code)
   * [Code Blocks](#code-blocks)
+* Links
+  * Adding Titles
+  * URLs and Email Addresses
+  * Formatting Links
+  * Reference-style Links
+    * Formatting the First Part of the Link
+    * Formatting the Second Part of the Link
 * [Images](#images)
   * [Linking Images](#linking-images)
 * [Lists](#lists)
@@ -46,14 +53,6 @@ I do hope this helps you all along with how I learned everything by writing this
     * [Code Blocks in Lists](#code-blocks-in-lists)
     * [Images in Lists](#images-in-lists)
     * [Nested Lists](#nested-lists)
-* Links
-  * Adding Titles
-  * URLs and Email Addresses
-  * Formatting Links
-  * Reference-style Links
-    * Formatting the First Part of the Link
-    * Formatting the Second Part of the Link
-    * An Example Putting the Parts Together
 * Horizontal Rules
 * Escaping Characters
   * Characters You Can Escape
