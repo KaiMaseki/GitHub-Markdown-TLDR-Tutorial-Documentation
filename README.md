@@ -456,7 +456,7 @@ OPEN THE FIRST SQUARE BRACKET
 [
 ! <----------- EXCLAMATION MARK GOEX NEXT
 [ALT TEXT GOES HERE]
-(URL GOES HERE
+(URL OF IMAGE OR CODE OF COPY PASTED IMAGE GOES HERE
 "TITLE GOES HERE")
 CLOSE THE FIRST SQUARE BRACKET
 ]
@@ -468,7 +468,43 @@ Now let's put an actual example here:
 [![FREE CANDY](https://i.imgur.com/Qp0keUz.png "FREE CANDY")](https://i.imgur.com/geoNYwt.png)
 ```
 
+**MAKE SURE TO HIT THE BACK BUTTON IF YOU CLICK BELOW**
+
 [![FREE CANDY](https://i.imgur.com/Qp0keUz.png "FREE CANDY")](https://i.imgur.com/geoNYwt.png)
+
+So after clicking the image, I'm sure you can see two issues with this:
+
+1. The image is too big, taking up too much space
+2. You cannot edit the size of the image with Markdown, but that changes the whole syntax
+3. It does not click to another tab so you can lose where you are
+
+As with most other situations, you can fix this using HTML format instead of GitHub markdown. Breaking it down, it looks like this:
+
+```
+<p align="center"> <------- TYPE THIS FIRST
+<a href="URL OF THE WEBPAGE LINK GOES HERE"> <----- THIS WILL OPEN THE HYPERLINK
+    THE COPY-PASTED GITHUB IMAGE CODE GOES BELOW HERE (WITH WIDTH AND HEIGHT ADDED)
+    <img width="NUMBER" height="NUMBER" alt="ALT TEXT GOES HERE" src="GITHUB UPLOADED IMAGE URL GOES HERE" title="HOVER TITLE GOES HERE"/>
+  CLOSE THE HYPERLINK ANCHOR TAG
+  </a>
+CLOSE THE HTML PARAGRAPH TAG
+</p>
+```
+
+You use the same *paragraph center align* function along with linking with *a href*. With the new example being like so:
+
+```
+<p align="center">
+  <a href="https://i.imgur.com/geoNYwt.png">
+    <img width="300" height="300" alt="FREE CANDY" src="https://i.imgur.com/Qp0keUz.png" title="FREE CANDY"/>
+  </a>
+</p>
+```
+<p align="center">
+  <a href="https://i.imgur.com/geoNYwt.png" target="blank">
+    <img width="300" height="300" alt="FREE CANDY" src="https://i.imgur.com/Qp0keUz.png" title="FREE CANDY"/>
+  </a>
+</p>
 
 ## Lists
 
