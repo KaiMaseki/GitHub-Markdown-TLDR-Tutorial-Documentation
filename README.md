@@ -397,9 +397,7 @@ Please type the command <code>Hello World!</code>
 If you notice how I always put the syntax in code boxes, it's quite simple: **just put three backticks ``` at the start and end of your code** like so:
 
 
-<img width="275" height="81" alt="Code Block" src="https://github.com/user-attachments/assets/78362924-a1cd-40c3-b911-9bae60d3a997" />
-
-(A bit hard to see, but squint your eyes a bit above)
+<img width="400" height="120" alt="Code Block" src="https://github.com/user-attachments/assets/78362924-a1cd-40c3-b911-9bae60d3a997" />
 
 ```
 Example code goes here
@@ -427,7 +425,50 @@ To add an image, **Add an "!" exclamation mark with some alt text in [], and the
 
 Now you are probably thinking ***"This picture is way too big! How do I fix it?!"***
 
-Not to worry. All you have to do is **copy paste the image into your markdown
+Not to worry. All you have to do is **copy paste the image into your markdown and let the code generate. Once it generates, just adjust the numbers of the *height* and *width* and if you want, add a *paragraph* tag with the *center* function, like so:**
+
+```
+<p align="center">
+<img width="250" height="350" alt="Grumpy Cat" src="https://github.com/user-attachments/assets/6291ab4b-4ac5-480e-bd04-eb50df17f7ed" />
+</p>
+```
+
+<p align="center">
+<img width="250" height="350" alt="Grumpy Cat" src="https://github.com/user-attachments/assets/6291ab4b-4ac5-480e-bd04-eb50df17f7ed" />  
+</p>
+
+<p align="center">
+<em><strong></strong>and Voilà, a Centered Grumpy Cat</em> 
+</p>
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
+
+### Linking Images
+
+You can also use images to link to an external website by clicking on them. However, the process can be a little messy on Markdown. Here, I will try to break down the syntax line by line:
+
+```
+OPEN THE FIRST SQUARE BRACKET
+[
+! <----------- EXCLAMATION MARK GOEX NEXT
+[ALT TEXT GOES HERE]
+(URL GOES HERE
+"TITLE GOES HERE")
+CLOSE THE FIRST SQUARE BRACKET
+]
+(URL HYPERLINK GOES HERE)
+```
+Now let's put an actual example here:
+
+```
+[![FREE CANDY](https://i.imgur.com/Qp0keUz.png "FREE CANDY")](https://i.imgur.com/geoNYwt.png)
+```
+
+[![FREE CANDY](https://i.imgur.com/Qp0keUz.png "FREE CANDY")](https://i.imgur.com/geoNYwt.png)
 
 ## Lists
 
