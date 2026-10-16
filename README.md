@@ -476,7 +476,6 @@ So after clicking the image, I'm sure you can see two issues with this:
 
 1. The image is too big, taking up too much space
 2. You cannot edit the size of the image with Markdown, but that changes the whole syntax
-3. It does not click to another tab so you can lose where you are
 
 As with most other situations, you can fix this using HTML format instead of GitHub markdown. Breaking it down, it looks like this:
 
@@ -495,13 +494,13 @@ You use the same *paragraph center align* function along with linking with *a hr
 
 ```
 <p align="center">
-  <a href="https://imgur.com" target="_blank">
+  <a href="https://imgur.com">
     <img width="300" height="300" alt="FREE CANDY" src="https://imgur.com" title="FREE CANDY"/>
   </a>
 </p>
 ```
 <p align="center">
-  <a href="https://imgur.com" target="_blank">
+  <a href="https://imgur.com">
     <img width="300" height="300" alt="FREE CANDY" src="https://imgur.com" title="FREE CANDY"/>
   </a>
 </p>
