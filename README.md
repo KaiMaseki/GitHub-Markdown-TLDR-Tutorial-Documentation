@@ -431,7 +431,7 @@ Links are the easiest way to direct someone to resources, an external website, o
 
 ### Adding Titles
 
-
+You can also add little title highlights that leave little messages and notes when you highlight over links. To do this, **
 
 <p align="right">
   <a href="#table-of-contents">
