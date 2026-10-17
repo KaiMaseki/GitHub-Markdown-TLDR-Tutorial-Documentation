@@ -483,26 +483,26 @@ THIS LINK
 [CLICK HERE FOR THE THIRD VIDEO](https://youtu.be/Fx7eZItF8u0)
 ```
 
-First you should click on **[THIS LINK](https://youtu.be/jE-6n4dO95A?t=11)**
-Then you should click on *[THIS LINK](https://youtu.be/jEI3N9kIyP4?t=7)*
+First you should click on **[THIS LINK](https://youtu.be/jE-6n4dO95A?t=11)**  
+Then you should click on *[THIS LINK](https://youtu.be/jEI3N9kIyP4?t=7)*  
 Then finally, click on [`THIS LINK`](#this-link)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ 
 ### THIS LINK
 [CLICK HERE FOR THE THIRD VIDEO](https://youtu.be/Fx7eZItF8u0)
 
