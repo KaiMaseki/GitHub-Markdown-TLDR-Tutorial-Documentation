@@ -1,6 +1,7 @@
+<a name="introduction"></a>
 # K.I.S.S (KEEP IT SIMPLE, STUPID): A TLDR OF GITHUB MARKDOWN FOR BEGINNERS
 
-<a name="introduction"></a>
+
 ## 👋INTRODUCTION
 
 Hello, Dear Reader!
