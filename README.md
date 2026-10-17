@@ -35,11 +35,11 @@ I do hope this helps you all along with how I learned everything by writing this
   * [Nested Blockquotes](#nested-blockquotes)
 * [Code](#code)
   * [Code Blocks](#code-blocks)
-* Links
+* [Links](#links)
   * [Adding Titles](#adding-titles)
   * [URLs and Email Addresses](#urls-and-email-addresses)
-  * [Formatting Links](formatting-links)
-  * [Reference style Links](reference-style-links)
+  * [Formatting Links](#formatting-links)
+  * [Reference style Links](#reference-style-links)
 * [Images](#images)
   * [Linking Images](#linking-images)
 * [Lists](#lists)
@@ -51,12 +51,12 @@ I do hope this helps you all along with how I learned everything by writing this
     * [Code Blocks in Lists](#code-blocks-in-lists)
     * [Images in Lists](#images-in-lists)
     * [Nested Lists](#nested-lists)
-* Horizontal Rules
-* Escaping Characters
-  * Characters You Can Escape
-* HTML
-* Conclusion
-* Resources
+* [Horizontal Rules](#horizontal-rules)
+* [Tables](#tables)
+* [Escaping Characters](#escaping-characters)
+* [HTML](#html)
+* [Conclusion](#conclusion)
+* [Resources](#resources)
 
 
 
