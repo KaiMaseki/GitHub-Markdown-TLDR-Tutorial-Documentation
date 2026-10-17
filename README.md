@@ -36,12 +36,10 @@ I do hope this helps you all along with how I learned everything by writing this
 * [Code](#code)
   * [Code Blocks](#code-blocks)
 * Links
-  * Adding Titles
-  * URLs and Email Addresses
-  * Formatting Links
-  * Reference-style Links
-    * Formatting the First Part of the Link
-    * Formatting the Second Part of the Link
+  * [Adding Titles](#adding-titles)
+  * [URLs and Email Addresses](#urls-and-email-addresses)
+  * [Formatting Links](formatting-links)
+  * [Reference-style Links](reference-style-links)
 * [Images](#images)
   * [Linking Images](#linking-images)
 * [Lists](#lists)
@@ -487,31 +485,25 @@ THIS LINK
 
 First you should click on **[THIS LINK](https://youtu.be/jE-6n4dO95A?t=11)**
 Then you should click on *[THIS LINK](https://youtu.be/jEI3N9kIyP4?t=7)*
-Then finally, click on[`THIS LINK`](#this-link)
-
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-THIS LINK
+Then finally, click on [`THIS LINK`](#this-link)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+### THIS LINK
 [CLICK HERE FOR THE THIRD VIDEO](https://youtu.be/Fx7eZItF8u0)
 
 <p align="right">
