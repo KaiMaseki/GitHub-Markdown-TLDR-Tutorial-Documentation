@@ -489,17 +489,28 @@ First you should click on **[THIS LINK](https://youtu.be/jE-6n4dO95A?t=11)**
 Then you should click on *[THIS LINK](https://youtu.be/jEI3N9kIyP4?t=7)*
 Then finally, click on[`THIS LINK`](#this-link)
 
-
-
-
-
-
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 THIS LINK
 [CLICK HERE FOR THE THIRD VIDEO](https://youtu.be/Fx7eZItF8u0)
 
@@ -538,7 +549,7 @@ Have you ever wondered about the Meaning of Life? Well, click across to find out
 [1]: https://youtu.be/aboZctrHfK8 "The Meaning of Life"
 ```
 
-Have you ever wondered about the Meaning of Life? Well, click across to find out what [The Meaning of Life] [1] truly is!
+Have you ever wondered about the Meaning of Life? Well, click across to find out what [the-meaning-of-life] [1] truly is!
 
 [1]: https://youtu.be/aboZctrHfK8 "The Meaning of Life"
 
