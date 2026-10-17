@@ -494,13 +494,13 @@ You use the same *paragraph center align* function along with linking with *a hr
 
 ```
 <p align="center">
-  <a href="https://imgur.com">
+  <a href="https://i.imgur.com/Qp0keUz.png">
     <img width="300" height="300" alt="FREE CANDY" src="https://i.imgur.com/geoNYwt.png" title="FREE CANDY"/>
   </a>
 </p>
 ```
 <p align="center">
-  <a href="https://imgur.com">
+  <a href="https://i.imgur.com/Qp0keUz.png">
     <img width="300" height="300" alt="FREE CANDY" src="https://i.imgur.com/geoNYwt.png" title="FREE CANDY"/>
   </a>
 </p>
