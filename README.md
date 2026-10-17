@@ -1,7 +1,6 @@
+# K.I.S.S (KEEP IT SIMPLE, STUPID): A TLDR OF GITHUB MARKDOWN FOR ABSOLUTE BEGINNERS
+
 <a name="introduction"></a>
-# K.I.S.S (KEEP IT SIMPLE, STUPID): A TLDR OF GITHUB MARKDOWN FOR BEGINNERS
-
-
 ## 👋INTRODUCTION
 
 Hello, Dear Reader!
@@ -1000,7 +999,7 @@ Now go out there and start making your GitHub documentation look great!
 
 ## Resources
 
-Here are some resources you can use if you are more curious or need more information:
+Here are some resources you can use if you are more curious or need more information. **HOLD CTRL WHILE CLICKING**:
 
 - [Basic Syntax Markdown Guide](https://www.markdownguide.org/basic-syntax/) - The entire basis of what I based my GitHub tutorial on. I tried to condense and TLDR it while making it more functional and accessible to beginners
 - [Intermediate/Advanced Syntax](https://www.markdownguide.org/extended-syntax/) - This is some more advanced stuff if you'd like to do more complicated things in GitHub Markdown
