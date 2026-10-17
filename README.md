@@ -411,6 +411,58 @@ Example code goes here
   </a>
 </p>
 
+## Links
+
+Links are the easiest way to direct someone to resources, an external website, or your own works and projects. To add a link, simply **put some text inside some [] *square brackets*, followed by the *URL* in () *parenthesis*** like so:
+
+```
+[Here is a Special Present for You, Please Click Here](https://youtu.be/dQw4w9WgXcQ)
+```
+
+[Here is a Special Present for You, Please Click Here](https://youtu.be/dQw4w9WgXcQ)
+
+**DONT'T FORGET TO HOLD *CNTRL* WHEN CLICKING OR HIT BACK**
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
+
+### Adding Titles
+
+
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
+
+### URLs and Email Addresses
+
+
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
+
+### Reference-style Links
+
+#### Formatting the First Part of the Link
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
+
+#### Formatting the Second Part of the Link 
+
+
+
 ## Images
 
 As the old adage goes:
