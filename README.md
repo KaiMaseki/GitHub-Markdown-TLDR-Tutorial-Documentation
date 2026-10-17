@@ -855,3 +855,39 @@ Here is how you add each element:
     <kbd> 🔺 Return to Table of Contents</kbd>
   </a>
 </p>
+
+## Horizontal Rules
+
+You have the option to also create a sort of divider between sections. To create the divider,<strong>you can use either three \*\*\* *asterisks*, three --- *hyphens* or three ___ *underscores*</strong>. All will have the same output, like so:
+
+```
+First
+
+***
+
+Second
+
+---
+
+Third
+
+___
+```
+
+First
+
+***
+
+Second
+
+---
+
+Third
+
+___
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
