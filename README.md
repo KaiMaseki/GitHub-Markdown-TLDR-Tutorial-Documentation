@@ -448,7 +448,60 @@ You can also add little title highlights that leave little messages and notes wh
 
 ### URLs and Email Addresses
 
+You can also link to someone's email address or your own so whoever clicks on it goes straight to their email program along to quickly link things. To do so, **use the *< >* closed brackets followed like the text**, like so: 
 
+```
+<https://theuselessweb.com>
+<statefarmfireclaims@statefarm.com>
+```
+
+<https://theuselessweb.com>
+<statefarmfireclaims@statefarm.com>
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
+
+### Formatting Links
+
+If you want to, you can mix in some formatting with your links. 
+
+**EXAMPLE 1:**
+
+```
+First you should click on **[THIS LINK](https://youtu.be/jE-6n4dO95A?t=11)**
+Then you should click on *[THIS LINK](https://youtu.be/jEI3N9kIyP4?t=7)*
+Then finally, click on[`THIS LINK`](#this-link)
+
+
+
+
+
+
+
+THIS LINK
+[CLICK HERE FOR THE THIRD VIDEO](https://youtu.be/Fx7eZItF8u0)
+```
+
+First you should click on **[THIS LINK](https://youtu.be/jE-6n4dO95A?t=11)**
+Then you should click on *[THIS LINK](https://youtu.be/jEI3N9kIyP4?t=7)*
+Then finally, click on[`THIS LINK`](#this-link)
+
+
+
+
+
+
+
+
+
+
+
+
+THIS LINK
+[CLICK HERE FOR THE THIRD VIDEO](https://youtu.be/Fx7eZItF8u0)
 
 <p align="right">
   <a href="#table-of-contents">
@@ -458,17 +511,42 @@ You can also add little title highlights that leave little messages and notes wh
 
 ### Reference-style Links
 
-#### Formatting the First Part of the Link
+There is also a function to make links somewhat more readable in an academic style of referencing links. That way, it can make it a bit neater and add some accessibility if you need to add a quick link. The way that it's structured is in two parts: the text with a number, and then the actual link itself
+
+To set up the first part of the Reference-style links, **make four [] *square brackets*, fill the text in one, and the number in the other.** For example:
+
+```
+[The Meaning of Life] [1]
+```
+Then for the next part, you need to **format two [] *square brackets* followed by : *colon* with the URL. All of the following formats can be applied:**
+
+```
+[1]: https://youtu.be/aboZctrHfK8
+[1]: https://youtu.be/aboZctrHfK8 "The Meaning of Life"
+[1]: https://youtu.be/aboZctrHfK8 'The Meaning of Life'
+[1]: https://youtu.be/aboZctrHfK8 (The Meaning of Life)
+[1]: <https://youtu.be/aboZctrHfK8> "The Meaning of Life"
+[1]: <https://youtu.be/aboZctrHfK8> 'The Meaning of Life'
+[1]: <https://youtu.be/aboZctrHfK8> (The Meaning of Life)
+```
+
+When you put it altogether, it should look something like this:
+
+```
+Have you ever wondered about the Meaning of Life? Well, click across to find out what [The Meaning of Life] [1] truly is!
+
+[1]: https://youtu.be/aboZctrHfK8 "The Meaning of Life"
+```
+
+Have you ever wondered about the Meaning of Life? Well, click across to find out what [The Meaning of Life] [1] truly is!
+
+[1]: https://youtu.be/aboZctrHfK8 "The Meaning of Life"
 
 <p align="right">
   <a href="#table-of-contents">
     <kbd> 🔺 Return to Table of Contents</kbd>
   </a>
 </p>
-
-#### Formatting the Second Part of the Link 
-
-
 
 ## Images
 
