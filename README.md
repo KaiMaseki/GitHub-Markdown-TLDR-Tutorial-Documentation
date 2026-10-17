@@ -901,15 +901,76 @@ If you want to have that extra bit of organization, you can create tables in Mar
 | -------- | -------- | -------- |
 | Table 1A | Table 2A | Table 3A |
 | Table 1B | Table 2B | Table 3B |
+| Table 1C | Table 2C | Table 3C |
+| Table 1D | Table 2D | Table 3D |
 ```
 
 | Table 1 | Table 2 | Table 3 |
 | -------- | -------- | -------- |
 | Table 1A | Table 2A | Table 3A |
 | Table 1B | Table 2B | Table 3B |
+| Table 1C | Table 2C | Table 3C |
+| Table 1D | Table 2D | Table 3D |
+
+Notice how it automatically changes colors for the title headers and zebra stripes the rows for easier reading. Convenient, huh?
 
 <p align="right">
   <a href="#table-of-contents">
     <kbd> 🔺 Return to Table of Contents</kbd>
   </a>
 </p>
+
+## Escaping Characters
+
+Sometimes you need to use a character that is reserved for a function. To use it as text, **simply use the \ *back slash* along with the character next to it with no spaces**. These are all the characters you can escape:
+
+```
+\	backslash
+`	backtick (see also escaping backticks in code)
+*	asterisk
+_	underscore
+{ }	curly braces
+[ ]	brackets
+< >	angle brackets
+( )	parentheses
+#	pound sign
++	plus sign
+-	minus sign (hyphen)
+.	dot
+!	exclamation mark
+| pipe
+```
+
+Adding a \ *back slash* to each would make it display like so:
+
+```
+\\	backslash
+\`	backtick (see also escaping backticks in code)
+\*	asterisk
+\_	underscore
+\{ \}	curly braces
+\[ \]	brackets
+\< \>	angle brackets
+\( \)	parentheses
+\#	pound sign
+\+	plus sign
+\-	minus sign (hyphen)
+\.	dot
+\!	exclamation mark
+\| pipe
+```
+
+\\	backslash
+\`	backtick (see also escaping backticks in code)
+\*	asterisk
+\_	underscore
+\{ \}	curly braces
+\[ \]	brackets
+\< \>	angle brackets
+\( \)	parentheses
+\#	pound sign
+\+	plus sign
+\-	minus sign (hyphen)
+\.	dot
+\!	exclamation mark
+\| pipe
