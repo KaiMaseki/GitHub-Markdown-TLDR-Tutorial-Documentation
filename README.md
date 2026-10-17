@@ -18,6 +18,12 @@ That is why I wrote this GitHub Documentation README as my first personal Githob
 
 Whether you are looking to clean up your own repository presentation or just need a quick formatting sanity check, this guide will hopefully strip away the amount of word-salad to give you exactly what you need to know (in Markdown and in HTML where applicable), and what it looks like in practice. 
 
+**NOTE: IF YOU WOULD LIKE TO PRACTICE THIS IN REAL TIME, I HIGHLY RECOMMEND USING JBT'S LIVE GFM EDITOR**
+
+<p align="center">
+  <a href="https://jbt.github.io/markdown-editor"><strong>HOLD CTRL AND CLICK HERE TO OPEN JBT'S LIVE GFM EDITOR</strong></a>
+</p>
+
 I do hope this helps you all along with how I learned everything by writing this documentation and TLDR guide.
 
 <a name="table-of-contents"></a>
@@ -54,7 +60,6 @@ I do hope this helps you all along with how I learned everything by writing this
 * [Horizontal Rules](#horizontal-rules)
 * [Tables](#tables)
 * [Escaping Characters](#escaping-characters)
-* [HTML](#html)
 * [Conclusion](#conclusion)
 * [Resources](#resources)
 
@@ -974,3 +979,28 @@ Adding a \ *back slash* to each would make it display like so:
 \.	dot  
 \!	exclamation mark  
 \| pipe
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
+
+## Conclusion
+
+Congratulations! You made it to the end of the tutorial! Good job! Hopefully now you have mastered the fundamentals of GitHub Markdown and some useful HTML tricks as well. Good for you! Remember, you can always use this README as a quick reference if you ever forget anything. I tried to make it as easy to read as possible along with quickly being able to jump around each subsection or return back to the table of contents. Of course, you can always use CTRL + F to quickly find things as well if need be. *Variety is the Spice of Life*, after all.
+
+Now go out there and start making your GitHub documentation look great!
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/NII7Z9YQLsMAAAAC/go-for-it-you-can-do-it.gif" alt="You can do it!">
+</p>
+
+## Resources
+
+Here are some resources you can use if you are more curious or need more information:
+
+- [Basic Syntax Markdown Guide](https://www.markdownguide.org/basic-syntax/) - The entire basis of what I based my GitHub tutorial on. I tried to condense and TLDR it while making it more functional and accessible to beginners
+- [Intermediate/Advanced Syntax](https://www.markdownguide.org/extended-syntax/) - This is some more advanced stuff if you'd like to do more complicated things in GitHub Markdown
+- [Live Interactive Markdown Tutorial](https://www.markdowntutorial.com/) - This is more of a live, interactive tutorial if you don't wish to read everything or do everything together step-by-step
+- [A Comprehensive Guide to Getting Started on GitHub](https://docs.github.com/en/get-started/start-your-journey/what-is-github) - Incredibly useful and detailed guide that I thought I would link here as a handy dandy resource
