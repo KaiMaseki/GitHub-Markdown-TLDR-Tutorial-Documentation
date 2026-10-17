@@ -421,7 +421,7 @@ Links are the easiest way to direct someone to resources, an external website, o
 
 [Here is a Special Present for You, Please Click Here](https://youtu.be/dQw4w9WgXcQ)
 
-**DONT'T FORGET TO HOLD *CNTRL* WHEN CLICKING OR HIT BACK**
+**DONT'T FORGET TO HOLD *CTRL* WHEN CLICKING OR HIT BACK**
 
 <p align="right">
   <a href="#table-of-contents">
@@ -431,7 +431,14 @@ Links are the easiest way to direct someone to resources, an external website, o
 
 ### Adding Titles
 
-You can also add little title highlights that leave little messages and notes when you highlight over links. To do this, **
+You can also add little title highlights that leave little messages and notes when you highlight over links. To do this, **add some *""* quotation marks with the title** like so:
+
+```
+[Here is a Special Present for You, Please Click Here](https://youtu.be/dQw4w9WgXcQ "You totally should click this")
+```
+
+[Here is a Special Present for You, Please Click Here](https://youtu.be/dQw4w9WgXcQ "You totally should click this")
+
 
 <p align="right">
   <a href="#table-of-contents">
