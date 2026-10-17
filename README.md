@@ -960,17 +960,17 @@ Adding a \ *back slash* to each would make it display like so:
 \| pipe
 ```
 
-\\	backslash
-\`	backtick (see also escaping backticks in code)
-\*	asterisk
-\_	underscore
-\{ \}	curly braces
-\[ \]	brackets
-\< \>	angle brackets
-\( \)	parentheses
-\#	pound sign
-\+	plus sign
-\-	minus sign (hyphen)
-\.	dot
-\!	exclamation mark
+\\	backslash  
+\`	backtick (see also escaping backticks in code)  
+\*	asterisk  
+\_	underscore  
+\{ \}	curly braces  
+\[ \]	brackets  
+\< \>	angle brackets  
+\( \)	parentheses  
+\#	pound sign  
+\+	plus sign  
+\-	minus sign (hyphen)  
+\.	dot  
+\!	exclamation mark  
 \| pipe
