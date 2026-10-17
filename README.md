@@ -1,5 +1,6 @@
 # K.I.S.S (KEEP IT SIMPLE, STUPID): A TLDR OF GITHUB MARKDOWN FOR BEGINNERS
 
+<a name="introduction"></a>
 ## 👋INTRODUCTION
 
 Hello, Dear Reader!
@@ -1004,3 +1005,9 @@ Here are some resources you can use if you are more curious or need more informa
 - [Intermediate/Advanced Syntax](https://www.markdownguide.org/extended-syntax/) - This is some more advanced stuff if you'd like to do more complicated things in GitHub Markdown
 - [Live Interactive Markdown Tutorial](https://www.markdowntutorial.com/) - This is more of a live, interactive tutorial if you don't wish to read everything or do everything together step-by-step
 - [A Comprehensive Guide to Getting Started on GitHub](https://docs.github.com/en/get-started/start-your-journey/what-is-github) - Incredibly useful and detailed guide that I thought I would link here as a handy dandy resource
+
+<p align="right">
+  <a href="#introduction">
+    <kbd> 🔺 Return to Top</kbd>
+  </a>
+</p>
