@@ -891,3 +891,25 @@ ___
     <kbd> 🔺 Return to Table of Contents</kbd>
   </a>
 </p>
+
+## Tables
+
+If you want to have that extra bit of organization, you can create tables in Markdown. It is a little tricky to do, as you need to <strong>make combinations of the | *pipe* key (Shift + forwardslash) and -- *hyphens**. The -- *hyphens* make up the horizontal lines while the | *pipes* make up the vertical lines.</strong> Let me show you an example:
+
+```
+| Table 1 | Table 2 | Table 3 |
+| -------- | -------- | -------- |
+| Table 1A | Table 2A | Table 3A |
+| Table 1B | Table 2B | Table 3B |
+```
+
+| Table 1 | Table 2 | Table 3 |
+| -------- | -------- | -------- |
+| Table 1A | Table 2A | Table 3A |
+| Table 1B | Table 2B | Table 3B |
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
