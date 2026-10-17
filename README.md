@@ -468,7 +468,7 @@ Now let's put an actual example here:
 [![FREE CANDY](https://i.imgur.com/Qp0keUz.png "FREE CANDY")](https://i.imgur.com/geoNYwt.png)
 ```
 
-**MAKE SURE TO HIT THE BACK BUTTON IF YOU CLICK BELOW**
+**NOTE: YOU WILL NEED TO HOLD DOWN *CNTRL* WHEN CLICKING SO YOU CAN OPEN A NEW TAB. OR MAKE SURE TO HIT THE BACK BUTTON IF YOU CLICK BELOW**
 
 [![FREE CANDY](https://i.imgur.com/Qp0keUz.png "FREE CANDY")](https://i.imgur.com/geoNYwt.png)
 
@@ -504,6 +504,15 @@ You use the same *paragraph center align* function along with linking with *a hr
     <img width="300" height="300" alt="FREE CANDY" src="https://i.imgur.com/Qp0keUz.png" title="FREE CANDY"/>
   </a>
 </p>
+
+**REMEMBER TO HOLD DOWN *CNTRL* OR HIT THE BACK BUTTON AFTER CLICKING**
+
+<p align="right">
+  <a href="#table-of-contents">
+    <kbd> 🔺 Return to Table of Contents</kbd>
+  </a>
+</p>
+
 
 ## Lists
 
