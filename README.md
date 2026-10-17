@@ -39,7 +39,7 @@ I do hope this helps you all along with how I learned everything by writing this
   * [Adding Titles](#adding-titles)
   * [URLs and Email Addresses](#urls-and-email-addresses)
   * [Formatting Links](formatting-links)
-  * [Reference-style Links](reference-style-links)
+  * [Reference style Links](reference-style-links)
 * [Images](#images)
   * [Linking Images](#linking-images)
 * [Lists](#lists)
@@ -512,7 +512,7 @@ Then finally, click on [`THIS LINK`](#this-link)
   </a>
 </p>
 
-### Reference-style Links
+### Reference style Links
 
 There is also a function to make links somewhat more readable in an academic style of referencing links. That way, it can make it a bit neater and add some accessibility if you need to add a quick link. The way that it's structured is in two parts: the text with a number, and then the actual link itself
 
@@ -536,14 +536,15 @@ Then for the next part, you need to **format two [] *square brackets* followed b
 When you put it altogether, it should look something like this:
 
 ```
-Have you ever wondered about the Meaning of Life? Well, click across to find out what [The Meaning of Life] [1] truly is!
+Have you ever wondered about the Meaning of Life? Well, click across to find out what [The Meaning of Life][the-meaning-of-life] truly is!
 
-[1]: https://youtu.be/aboZctrHfK8 "The Meaning of Life"
+[the-meaning-of-life]: https://youtu.be "The Meaning of Life"
+
 ```
 
-Have you ever wondered about the Meaning of Life? Well, click across to find out what [the-meaning-of-life] [1] truly is!
+Have you ever wondered about the Meaning of Life? Well, click across to find out what [The Meaning of Life][the-meaning-of-life] truly is!
 
-[1]: https://youtu.be/aboZctrHfK8 "The Meaning of Life"
+[the-meaning-of-life]: https://youtu.be "The Meaning of Life"
 
 <p align="right">
   <a href="#table-of-contents">
