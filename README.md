@@ -901,12 +901,10 @@ Nested lists have some variety to them. You can do it like this:
   <li>Ordered List 1</li>
   <li>Ordered List 2</li>
   <li>Ordered List 3</li>
-  <li>
     <ul>
       <li>Unordered List 1</li>
       <li>Unordered List 2</li>
     </ul>
-  </li>
   <li>Ordered List 4</li>
 </ol>
 ```
@@ -914,12 +912,10 @@ Nested lists have some variety to them. You can do it like this:
   <li>Ordered List 1</li>
   <li>Ordered List 2</li>
   <li>Ordered List 3</li>
-  <li>
     <ul>
       <li>Unordered List 1</li>
       <li>Unordered List 2</li>
     </ul>
-  </li>
   <li>Ordered List 4</li>
 </ol>
 
@@ -930,12 +926,10 @@ Nested lists have some variety to them. You can do it like this:
   <li>Unordered List 1</li>
   <li>Unordered List 2</li>
   <li>Unordered List 3</li>
-  <li>
     <ol>
       <li>Ordered List 1</li>
       <li>Ordered List 2</li>
     </ol>
-  </li>
   <li>Unordered List 4</li>
 </ul>
 ```
@@ -943,12 +937,10 @@ Nested lists have some variety to them. You can do it like this:
   <li>Unordered List 1</li>
   <li>Unordered List 2</li>
   <li>Unordered List 3</li>
-  <li>
     <ol>
       <li>Ordered List 1</li>
       <li>Ordered List 2</li>
     </ol>
-  </li>
   <li>Unordered List 4</li>
 </ul>
 
