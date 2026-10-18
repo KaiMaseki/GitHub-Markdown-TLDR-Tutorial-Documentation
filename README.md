@@ -56,7 +56,6 @@ I do hope this helps you all along with how I learned everything by writing this
     * [Paragraphs in Lists](#paragraphs-in-lists)
     * [Blockquotes in Lists](#blockquotes-in-lists)
     * [Code Blocks in Lists](#code-blocks-in-lists)
-    * [Images in Lists](#images-in-lists)
     * [Nested Lists](#nested-lists)
 * [Horizontal Rules](#horizontal-rules)
 * [Tables](#tables)
@@ -793,7 +792,8 @@ Here is how you add each element:
 
 ### Paragraphs in Lists
 
-```* This is the first list item
+```
+* This is the first list item
 * This is second list item
 
   This is a paragraph
@@ -802,6 +802,7 @@ Here is how you add each element:
 * Here is the fourth list item
 ```
 
+* This is the first list item
 * This is second list item
 
   This is a paragraph
@@ -817,6 +818,19 @@ Here is how you add each element:
 
 ### Blockquotes in Lists
 
+```
+* The first part of the list
+* The second part of the list
+ > This is a blockquote inserted inside of the list
+* The third part of the list
+* The fourth part of the list
+```
+
+* The first part of the list
+* The second part of the list
+ > This is a blockquote inserted inside of the list
+* The third part of the list
+* The fourth part of the list
 
 <p align="right">
   <a href="#table-of-contents">
@@ -844,17 +858,99 @@ Here is how you add each element:
   </a>
 </p>
 
-### Images in Lists
-
-
-<p align="right">
-  <a href="#table-of-contents">
-    <kbd> 🔺 Return to Table of Contents</kbd>
-  </a>
-</p>
-
 ### Nested Lists
 
+Nested lists have some variety to them. You can do it like this:
+
+```
+1. Ordered List 1
+2. Ordered List 2
+3. Ordered List 3
+    - Unordered List 1
+    - Unordered List 2
+4. Ordered List 4
+```
+1. Ordered List 1
+2. Ordered List 2
+3. Ordered List 3
+    - Unordered List 1
+    - Unordered List 2
+4. Ordered List 4
+
+**OR**
+
+```
+- Unordered List 1
+- Unodered List 2
+- Unordered List 3
+    1. Ordered List 1
+    2. Ordered List 2
+- Unordered List 4
+```
+- Unordered List 1
+- Unodered List 2
+- Unordered List 3
+    1. Ordered List 1
+    2. Ordered List 2
+- Unordered List 4
+
+**OR, WITH HTML***
+
+```
+<ol>
+  <li>Ordered List 1</li>
+  <li>Ordered List 2</li>
+  <li>Ordered List 3</li>
+  <li>
+    <ul>
+      <li>Unordered List 1</li>
+      <li>Unordered List 2</li>
+    </ul>
+  </li>
+  <li>Ordered List 4</li>
+</ol>
+```
+<ol>
+  <li>Ordered List 1</li>
+  <li>Ordered List 2</li>
+  <li>Ordered List 3</li>
+  <li>
+    <ul>
+      <li>Unordered List 1</li>
+      <li>Unordered List 2</li>
+    </ul>
+  </li>
+  <li>Ordered List 4</li>
+</ol>
+
+**OR**
+
+```
+<ul>
+  <li>Unordered List 1</li>
+  <li>Unordered List 2</li>
+  <li>Unordered List 3</li>
+  <li>
+    <ol>
+      <li>Ordered List 1</li>
+      <li>Ordered List 2</li>
+    </ol>
+  </li>
+  <li>Unordered List 4</li>
+</ul>
+```
+<ul>
+  <li>Unordered List 1</li>
+  <li>Unordered List 2</li>
+  <li>Unordered List 3</li>
+  <li>
+    <ol>
+      <li>Ordered List 1</li>
+      <li>Ordered List 2</li>
+    </ol>
+  </li>
+  <li>Unordered List 4</li>
+</ul>
 
 <p align="right">
   <a href="#table-of-contents">
