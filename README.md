@@ -964,7 +964,7 @@ ___
 
 ## Tables
 
-If you want to have that extra bit of organization, you can create tables in Markdown. It is a little tricky to do, as you need to **make combinations of the `|` `PIPE KEY`(`SHIFT KEY` + `\``BACKSLASH`) and two `--` `HYPHENS`**. The `--` `HYPHENS` make up the horizontal lines while the `|` `PIPES` make up the vertical lines.Let me show you an example:
+If you want to have that extra bit of organization, you can create tables in Markdown. It is a little tricky to do, as you need to **make combinations of the `|` `PIPE KEY`(`SHIFT KEY` + `\` `BACKSLASH`) and two `--` `HYPHENS`**. The `--` `HYPHENS` make up the horizontal lines while the `|` `PIPES` make up the vertical lines.Let me show you an example:
 
 ```
 | Table 1 | Table 2 | Table 3 |
