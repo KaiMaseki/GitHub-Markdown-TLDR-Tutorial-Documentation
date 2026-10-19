@@ -128,7 +128,7 @@ Alternatively you can also use HTML's way of the heading command like so:
 
 ## Paragraphs
 
-Paragraphs are the second half to the basis of formatting. To create a paragraph, all you have to do is **make a blank line by hitting Enter twice** like so:
+Paragraphs are the second half to the basis of formatting. To create a paragraph, all you have to do is **make a blank line by hitting the `ENTER KEY` twice** like so:
 
 ```
 This is the first paragraph.
@@ -149,7 +149,7 @@ This is the second paragraph.
 
 ## Line Breaks
 
-Sometimes you might want to add a line break to a sentence. Once you finish the sentence, **hit the Space bar twice, then hit Enter** like so:
+Sometimes you might want to add a line break to a sentence. Once you finish the sentence, **hit the `SPACEBAR` twice, then hit `ENTER`** like so:
 
 ```
 This is the first sentence  
@@ -159,7 +159,7 @@ Followed by a line break
 This is the first sentence  
 Followed by a line break
 
-Additionally, you can use HTML's break command:
+Additionally, you can use HTML's `<br>` `BREAK TAG` command:
 
 ```
 <p> This is the first sentence <br>
@@ -169,15 +169,7 @@ Followed by a line break </p>
 <p> This is the first sentence <br>
 Followed by a line break </p>
 
-**NOTE: YOU CAN USE THE BACKSLASH ("\\") AS A MEANS TO LINE BREAK, BUT IT IS NOT ALWAYS COMPATIBLE SO I WOULD BE CAREFUL**
-
-```
-Example of a sentence with a backslash \
-Transitioning to the second sentence
-```
-
-Example of a sentence with a backslash \
-Transitioning to the second sentence
+**NOTE: YOU CAN USE THE `\` `BACKSLASH KEY` AS A MEANS TO LINE BREAK, BUT IT IS NOT ALWAYS COMPATIBLE SO I WOULD BE CAREFUL**
 
 <p align="right">
   <a href="#table-of-contents">
@@ -191,7 +183,7 @@ Using emphasis can sometimes help to *get the meaning across* or to **get people
 
 ### Bold
 
-To bold a piece of text, **simply add two asterisks in front and behind like so:**
+To bold a piece of text, **simply add two `**` `ASTERISKS` in front and behind like so:**
 
 ```
 ------> ** THESE THINGS
@@ -199,7 +191,7 @@ To bold a piece of text, **simply add two asterisks in front and behind like so:
 ```
 **THIS IS BOLDED TEXT**
 
-You can also use HTML's version with the strong tags like so:
+You can also use HTML's version with the `<strong>` `STRONG TAGS` like so:
 
 ```
 <strong> THIS IS BOLD TEXT </strong>
@@ -209,7 +201,7 @@ You can also use HTML's version with the strong tags like so:
 
 However...
 
-**NOTE: WHILE YOU CAN USE UNDERSCORES TO BOLD, IT MAY NOT BE INCOMPATIBLE, SO STICK TO ASTERISKS**
+**NOTE: WHILE YOU CAN USE UNDERSCORES TO BOLD, IT MAY NOT BE INCOMPATIBLE, SO STICK TO `*` `ASTERISKS`**
 
 <p align="right">
   <a href="#table-of-contents">
@@ -219,7 +211,7 @@ However...
 
 ## Italic
 
-To italicize a piece of text, **simply add one asterisk in front and behind like so:**
+To italicize a piece of text, **simply add one `*` `ASTERISK` in front and behind like so:**
 
 ```
 ------> * THIS THING
@@ -227,7 +219,7 @@ To italicize a piece of text, **simply add one asterisk in front and behind like
 ```
 *THIS IS ITALICIZED TEXT*
 
-You can also use HTML's version with the em tags like so:
+You can also use HTML's version with the `<em>` `EM TAGS` like so:
 
 ```
 <em> THIS IS ITALICIZED TEXT </em>
@@ -247,7 +239,7 @@ Once again...
 
 ## Bold & Italic
 
-To **bold** and *italicize* a piece of text, ***simply add three asterisks in front and behind like so:***
+To **bold** and *italicize* a piece of text, **simply add three `***` `ASTERISKS` asterisks in front and behind like so:**
 
 ```
 ------> *** THESE THINGS
@@ -255,8 +247,8 @@ To **bold** and *italicize* a piece of text, ***simply add three asterisks in fr
 ```
 ***THIS IS BOLDED AND ITALICIZED TEXT***
 
-You can also use HTML and combine both the strong and em tags like so:
-
+You can also use HTML and combine both the `<strong>` and `em` tags like so:
+`
 ```
 <em><strong>THIS IS BOLD AND ITALICIZED TEXT</strong></em>
 ```
@@ -273,7 +265,7 @@ You can also use HTML and combine both the strong and em tags like so:
 
 ## Blockquotes
 
-Blockquotes are good for when you want to quote someone as a reply on Reddit, but can also be used as another way to separate text visually from the main body if you need to highlight something. To use a blockquote, **simply using the right > arrow near the M key onto the start of the sentence** like so:
+Blockquotes are good for when you want to quote someone as a reply on Reddit, but can also be used as another way to separate text visually from the main body if you need to highlight something. To use a blockquote, **simply using the `>` `GREATER-THAN SIGN` near the `M` `KEY` onto the start of the sentence** like so:
 
 ```
 > This is a blockquote
@@ -289,7 +281,7 @@ Blockquotes are good for when you want to quote someone as a reply on Reddit, bu
 
 ### Blockquotes with Multiple Paragraphs
 
-To use a blockquote for multiple lines, **simply using the right > arrow onto multiple lines at the start of the sentence, the blank lines, and the next sentences** like so:
+To use a blockquote for multiple lines, **simply using the `>` `GREATER-THAN SIGN` onto multiple lines at the start of the sentence, the blank lines, and the next sentences** like so:
 
 ```
 > This is the start of the blockquote
@@ -312,7 +304,7 @@ To use a blockquote for multiple lines, **simply using the right > arrow onto mu
 
 ### Nested Blockquotes
 
-If you want to make a nested blockquote, **simply using the right > arrow onto the first line, two >> arrows at the nested sentence, then back to one > arrow on the blank lines, and the final sentences** like so:
+If you want to make a nested blockquote, **simply using the `>` `GREATER-THAN SIGN` onto the first line, two `>>` `GREATER-THAN-SIGNS`at the nested sentence, then back to one `>` `GREATER-THAN SIGN` on the blank lines, and the final sentences** like so:
 
 ```
 > This is the start of the blockquote
@@ -357,7 +349,7 @@ If you want to make a nested blockquote, **simply using the right > arrow onto t
 
 Sometimes we just need to put in a bit of code in our documentation, or need to highlight an important word as a command.
 
-**If you use the backtick "`" before and after the word, you can denote a word or phrase as code** like so:
+**If you use the `` ` `` `BACKTICK` before and after the word, you can denote a word or phrase as code** like so:
 
 ```
 Please type the command `Hello World!`
@@ -365,29 +357,13 @@ Please type the command `Hello World!`
 
 Please type the command `Hello World!`
 
-You can also use HTML's code function like so:
+You can also use HTML's `code` tag like so:
 
 ```
 Please type the command <code>Hello World!</code>
 ```
 
 Please type the command <code>Hello World!</code>
-
-**NOTE: TO ESCAPE BACKTICKS, USE TWO OF THEM AT THE START AND END LIKE SO:**
-
-```
-`` Be careful of `ESCAPING` backticks! ``
-```
-
-`` Be careful of `ESCAPING` backticks! ``
-
-***OR***
-
-```
-<code> Be careful of `ESCAPING` backticks!</code>
-```
-
-<code> Be careful of `ESCAPING` backticks!</code>
 
 <p align="right">
   <a href="#table-of-contents">
@@ -397,7 +373,7 @@ Please type the command <code>Hello World!</code>
 
 ### Code Blocks
 
-If you notice how I always put the syntax in code boxes, it's quite simple: **just put three backticks ``` at the start and end of your code** like so:
+If you notice how I always put the syntax in code boxes, it's quite simple: **just put three `` ``` `` `BACKTICKS`  at the start and end of your code** like so:
 
 
 <img width="400" height="120" alt="Code Block" src="https://github.com/user-attachments/assets/78362924-a1cd-40c3-b911-9bae60d3a997" />
@@ -416,7 +392,7 @@ Example code goes here
 
 ## Links
 
-Links are the easiest way to direct someone to resources, an external website, or your own works and projects. To add a link, simply **put some text inside some [] *square brackets*, followed by the *URL* in () *parenthesis*** like so:
+Links are the easiest way to direct someone to resources, an external website, or your own works and projects. To add a link, simply **put some text inside some `[ ]` `SQUARE BRACKETS`, followed by the `URL` in `( )` `PARENTHESIS`** like so:
 
 ```
 [Here is a Special Present for You, Please Click Here](https://youtu.be/dQw4w9WgXcQ)
@@ -424,7 +400,7 @@ Links are the easiest way to direct someone to resources, an external website, o
 
 [Here is a Special Present for You, Please Click Here](https://youtu.be/dQw4w9WgXcQ)
 
-**DONT'T FORGET TO HOLD *CTRL* WHEN CLICKING OR HIT BACK**
+**DONT'T FORGET TO HOLD `CTRL` WHEN CLICKING OR HIT `BACK`**
 
 <p align="right">
   <a href="#table-of-contents">
@@ -434,7 +410,7 @@ Links are the easiest way to direct someone to resources, an external website, o
 
 ### Adding Titles
 
-You can also add little title highlights that leave little messages and notes when you highlight over links. To do this, **add some *""* quotation marks with the title** like so:
+You can also add little title highlights that leave little messages and notes when you highlight over links. To do this, **add some `" "` `QUOTATION MARKS` with the title** like so:
 
 ```
 [Here is a Special Present for You, Please Click Here](https://youtu.be/dQw4w9WgXcQ "You totally should click this")
@@ -451,7 +427,7 @@ You can also add little title highlights that leave little messages and notes wh
 
 ### URLs and Email Addresses
 
-You can also link to someone's email address or your own so whoever clicks on it goes straight to their email program along to quickly link things. To do so, **use the *< >* closed brackets followed like the text**, like so: 
+You can also link to someone's email address or your own so whoever clicks on it goes straight to their email program along to quickly link things. To do so, **use the `< >` `LESS-THAN + GREATER-THAN-SIGNS` followed with the text**, like so: 
 
 ```
 <https://theuselessweb.com>
@@ -521,12 +497,12 @@ Then finally, click on [`THIS LINK`](#this-link)
 
 There is also a function to make links somewhat more readable in an academic style of referencing links. That way, it can make it a bit neater and add some accessibility if you need to add a quick link. The way that it's structured is in two parts: the text with a number, and then the actual link itself
 
-To set up the first part of the Reference-style links, **make four [] *square brackets*, fill the text in one, and the number in the other.** For example:
+To set up the first part of the Reference-style links, **make four `[ ]` `SQUARE BRACKETS`, fill the text in one, and the number in the other.** For example:
 
 ```
 [The Meaning of Life] [1]
 ```
-Then for the next part, you need to **format two [] *square brackets* followed by : *colon* with the URL. All of the following formats can be applied:**
+Then for the next part, you need to **format two `[ ]` `SQUARE BRACKETS` followed by a `:` `colon` with the `URL`. All of the following formats can be applied:**
 
 ```
 [1]: https://youtu.be/aboZctrHfK8
@@ -565,13 +541,13 @@ As the old adage goes:
 
 And sometimes, it's just nice to add pretty little pictures to your GitHub project, repository, or documentation. Or you simply need a screenshot.
 
-To add an image, **Add an "!" exclamation mark with some alt text in [], and the URL inside the () followed by a title in "" quotation marks** like so:
+To add an image, **Add an `!` `EXCLAMATION MARK` with some `alt text` in `[ ]` `SQUARE BRACKETS`, and the `URL` inside the `( )` `PARENTHESIS` followed by a title in `" "` `QUOTATION MARKS`** like so:
 
 ![Grumpy Cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17tGThNGO41sKEI3iGzLnvY_PjAj3v-p0zPPMedaqgo0TWcOZQipS9WZ8&s=10 "Grumpy Cat")
 
 Now you are probably thinking ***"This picture is way too big! How do I fix it?!"***
 
-Not to worry. All you have to do is **copy paste the image into your markdown and let the code generate. Once it generates, just adjust the numbers of the *height* and *width* and if you want, add a *paragraph* tag with the *center* function, like so:**
+Not to worry. All you have to do is **copy paste the `IMAGE` into your markdown and let the code generate. Once it generates, just adjust the numbers of the `HEIGHT` and `WIDTH` and if you want, add a `<p>` `PARAGRAPH TAG` with the `CENTER PARAMETER`, like so:**
 
 ```
 <p align="center">
@@ -584,7 +560,7 @@ Not to worry. All you have to do is **copy paste the image into your markdown an
 </p>
 
 <p align="center">
-<em><strong></strong>and Voilà, a Centered Grumpy Cat</em> 
+<strong></strong>and <em>Voilà,</em> a Centered Grumpy Cat 
 </p>
 
 <p align="right">
@@ -614,7 +590,7 @@ Now let's put an actual example here:
 [![FREE CANDY](https://i.imgur.com/Qp0keUz.png "FREE CANDY")](https://i.imgur.com/geoNYwt.png)
 ```
 
-**NOTE: YOU WILL NEED TO HOLD DOWN *CNTRL* WHEN CLICKING SO YOU CAN OPEN A NEW TAB. OR MAKE SURE TO HIT THE BACK BUTTON IF YOU CLICK BELOW**
+**NOTE: YOU WILL NEED TO HOLD DOWN THE `CTRL` BUTTON WHEN CLICKING SO YOU CAN OPEN A NEW TAB. OR MAKE SURE TO HIT THE BACK BUTTON IF YOU CLICK BELOW**
 
 [![FREE CANDY](https://i.imgur.com/Qp0keUz.png "FREE CANDY")](https://i.imgur.com/geoNYwt.png)
 
@@ -636,7 +612,7 @@ CLOSE THE HTML PARAGRAPH TAG
 </p>
 ```
 
-You use the same *paragraph center align* function along with linking with *a href*. With the new example being like so:
+You use the same `<p>` `PARAGRAPH TAG` + `CENTER PARAMETER` along with linking with the `a href` tag. With the new example being like so:
 
 ```
 <p align="center">
@@ -651,7 +627,7 @@ You use the same *paragraph center align* function along with linking with *a hr
   </a>
 </p>
 
-**REMEMBER TO HOLD DOWN *CNTRL* OR HIT THE BACK BUTTON AFTER CLICKING**
+**REMEMBER TO HOLD DOWN `CTRL` OR HIT THE `BACK BUTTON` AFTER CLICKING**
 
 <p align="right">
   <a href="#table-of-contents">
@@ -666,7 +642,7 @@ Lists are an incredibly useful way to have certain points organized in either bu
 
 ### Ordered Lists
 
-To make an ordered list with numbers, simply **type the number 1 followed by a "." then press Enter once you are finished.** The text will automatically keep numbering until you delete the number. Like so:
+To make an ordered list with numbers, simply **type the number `1` followed by a `.` `PERIOD` then press `ENTER` once you are finished.** The text will automatically keep numbering until you delete the number. Like so:
 
 ```
 1. Ordered List 1
@@ -681,7 +657,7 @@ To make an ordered list with numbers, simply **type the number 1 followed by a "
 4. Ordered List 4
 5. Ordered List 5
 
-You can also use HTML's ordered list function like so:
+You can also use HTML's `<ol>` `ORDERED LIST` tag like so:
 
 ```
 <ol>
@@ -709,7 +685,7 @@ You can also use HTML's ordered list function like so:
 
 ### Unordered Lists
 
-To make an unordered list with hyphens, simply **type the - hyphen, + plus sign, or asterisk, then press Enter once you are finished.** The text will automatically keep numbering until you delete the hyphen. Like so:
+To make an unordered list with hyphens, simply **type the `-` `HYPHEN KEY`, a `+` `PLUS SIGN`, or `*` `ASTERISK`, then press `ENTER` once you are finished.** The text will automatically keep numbering until you delete the hyphen. Like so:
 
 ```
 - Unordered List 1
@@ -748,7 +724,7 @@ To make an unordered list with hyphens, simply **type the - hyphen, + plus sign,
 * Urordered List 14
 * Unordered List 15
 
-You can also use HTML's unordered list function like so:
+You can also use HTML's `<ul>` `UNORDERDD LIST` tag like so:
 
 ```
 <ul>
@@ -768,7 +744,7 @@ You can also use HTML's unordered list function like so:
   <li> Unordered List 5 </li>
 </ul>
 
-**NOTE: IF YOU WISH TO HAVE NUMBERS IN AN UNORDERED LIST, USE THE FORWARDSLASH \ TO ESCAPE THE NUMBER AND "."**
+**NOTE: IF YOU WISH TO HAVE NUMBERS IN AN UNORDERED LIST, USE THE `\` `BACKSLASH KEY` TO ESCAPE THE NUMBER AND `.` `PERIOD`**
 
 ```
 - 1984\. A warning to humanity
@@ -786,7 +762,7 @@ You can also use HTML's unordered list function like so:
 
 ## Adding Elements in Lists
 
-Sometimes you may want to combine other elements in lists such as paragraphs, blockquotes, code blocks, images, or even nested lists. In order to add elements, **be sure to hit SPACE 4 times OR hit TAB ONCE**
+Sometimes you may want to combine other elements in lists such as paragraphs, blockquotes, code blocks, images, or even nested lists. In order to add elements, **be sure to hit `SPACEBAR` 4 times OR hit the `TAB KEY` ONCE**
 
 Here is how you add each element:
 
@@ -952,7 +928,7 @@ Nested lists have some variety to them. You can do it like this:
 
 ## Horizontal Rules
 
-You have the option to also create a sort of divider between sections. To create the divider,<strong>you can use either three \*\*\* *asterisks*, three --- *hyphens* or three ___ *underscores*</strong>. All will have the same output, like so:
+You have the option to also create a sort of divider between sections. To create the divider,**you can use either three `***` `ASTERISKS`, three `---` `HYPHENS`, or three `___` `UNDERSCORES**. All will have the same output, like so:
 
 ```
 First
@@ -988,7 +964,7 @@ ___
 
 ## Tables
 
-If you want to have that extra bit of organization, you can create tables in Markdown. It is a little tricky to do, as you need to <strong>make combinations of the | *pipe* key (Shift + forwardslash) and -- *hyphens**. The -- *hyphens* make up the horizontal lines while the | *pipes* make up the vertical lines.</strong> Let me show you an example:
+If you want to have that extra bit of organization, you can create tables in Markdown. It is a little tricky to do, as you need to **make combinations of the `|` `PIPE KEY`(`SHIFT KEY` + `\``BACKSLASH`) and two `--` `HYPHENS`**. The `--` `HYPHENS` make up the horizontal lines while the `|` `PIPES` make up the vertical lines.Let me show you an example:
 
 ```
 | Table 1 | Table 2 | Table 3 |
@@ -1016,7 +992,7 @@ Notice how it automatically changes colors for the title headers and zebra strip
 
 ## Escaping Characters
 
-Sometimes you need to use a character that is reserved for a function. To use it as text, **simply use the \ *back slash* along with the character next to it with no spaces**. These are all the characters you can escape:
+Sometimes you need to use a character that is reserved for a function. To use it as text, **simply use the `\` `BACKSLASH` along with the character next to it with no spaces**. These are all the characters you can escape:
 
 ```
 \	backslash
@@ -1035,7 +1011,7 @@ _	underscore
 | pipe
 ```
 
-Adding a \ *back slash* to each would make it display like so:
+Adding a `\` `BACKSLASH` to each would make it display like so:
 
 ```
 \\	backslash
@@ -1077,7 +1053,7 @@ Adding a \ *back slash* to each would make it display like so:
 
 ## 🎉 Conclusion
 
-Congratulations! You made it to the end of the tutorial! Good job! Hopefully now you have mastered the fundamentals of GitHub Markdown and some useful HTML tricks as well. Good for you! Remember, you can always use this README as a quick reference if you ever forget anything. I tried to make it as easy to read as possible along with quickly being able to jump around each subsection or return back to the table of contents. Of course, you can always use CTRL + F to quickly find things as well if need be. *Variety is the Spice of Life*, after all.
+Congratulations! You made it to the end of the tutorial! Good job! Hopefully now you have mastered the fundamentals of GitHub Markdown and some useful HTML tricks as well. Good for you! Remember, you can always use this `README` as a quick reference if you ever forget anything. I tried to make it as easy to read as possible along with quickly being able to jump around each subsection or return back to the table of contents. Of course, you can always use `CTRL + F` to quickly find things as well if need be. *Variety is the Spice of Life*, after all.
 
 Now go out there and start making your GitHub documentation look great!
 
@@ -1087,7 +1063,7 @@ Now go out there and start making your GitHub documentation look great!
 
 ## 📚 Resources
 
-Here are some resources you can use if you are more curious or need more information. **HOLD CTRL WHILE CLICKING**:
+Here are some resources you can use if you are more curious or need more information. **HOLD `CTRL` WHILE CLICKING**:
 
 - [Basic Syntax Markdown Guide](https://www.markdownguide.org/basic-syntax/) - The entire basis of what I based my GitHub tutorial on. I tried to condense and TLDR it while making it more functional and accessible to beginners
 - [Intermediate/Advanced Syntax](https://www.markdownguide.org/extended-syntax/) - This is some more advanced stuff if you'd like to do more complicated things in GitHub Markdown
