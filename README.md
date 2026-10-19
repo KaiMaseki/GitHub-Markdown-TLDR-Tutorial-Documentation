@@ -15,7 +15,7 @@ We all have seen how attention spans have been dwindling the last several decade
 
 Living with the struggle of ADHD (Attention-Deficit Hyperactive Disorder) made me realize sometimes we just need the essentials, and fast. Too many guides tend to overwhelm beginners, myself included (and I'm a tech guy), with loads of word salad and lack of pretty pictures (media literacy joke mind you).
 
-That is why I wrote this GitHub Documentation README as my first personal Githob Repository. Adhering to the classic engineering principle of K.I.S.S. (Keep It Simple, Stupid), this ancient art was passed down to me by my father, and his father, and our forefathers. This repository serves as a streamlined TL;DR guide for GitHub-Flavored Markdown.
+That is why I wrote this GitHub Documentation README as my first personal Github Repository. Adhering to the classic engineering principle of K.I.S.S. (Keep It Simple, Stupid), this ancient art was passed down to me by my father, and his father, and our forefathers. This repository serves as a streamlined TL;DR guide for GitHub-Flavored Markdown.
 
 Whether you are looking to clean up your own repository presentation or just need a quick formatting sanity check, this guide will hopefully strip away the amount of word-salad to give you exactly what you need to know (in Markdown and in HTML where applicable), and what it looks like in practice. 
 
@@ -82,7 +82,7 @@ Would look like
 a Mess  
 Like This
 
-To add Headings you can use the **Hash Sign (#)** to make up to **6 Headings**
+To add Headings you can use the `#` `Hash Sign`  to make up to **6 Headings**
 
 ```
 # Heading 1
