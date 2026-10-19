@@ -1051,7 +1051,8 @@ Adding a `\` `BACKSLASH` to each would make it display like so:
   </a>
 </p>
 
-## 🎉 Conclusion
+🎉## Conclusion 
+
 
 Congratulations! You made it to the end of the tutorial! Good job! Hopefully now you have mastered the fundamentals of GitHub Markdown and some useful HTML tricks as well. Good for you! Remember, you can always use this `README` as a quick reference if you ever forget anything. I tried to make it as easy to read as possible along with quickly being able to jump around each subsection or return back to the table of contents. Of course, you can always use `CTRL + F` to quickly find things as well if need be. *Variety is the Spice of Life*, after all.
 
@@ -1061,7 +1062,7 @@ Now go out there and start making your GitHub documentation look great!
   <img src="https://media1.tenor.com/m/NII7Z9YQLsMAAAAC/go-for-it-you-can-do-it.gif" alt="You can do it!">
 </p>
 
-## 📚 Resources
+📚## Resources
 
 Here are some resources you can use if you are more curious or need more information. **HOLD `CTRL` WHILE CLICKING**:
 
