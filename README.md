@@ -870,7 +870,7 @@ Nested lists have some variety to them. You can do it like this:
     2. Ordered List 2
 - Unordered List 4
 
-**OR, WITH HTML***
+**OR, WITH HTML**
 
 ```
 <ol>
@@ -928,7 +928,7 @@ Nested lists have some variety to them. You can do it like this:
 
 ## Horizontal Rules
 
-You have the option to also create a sort of divider between sections. To create the divider,**you can use either three `***` `ASTERISKS`, three `---` `HYPHENS`, or three `___` `UNDERSCORES**. All will have the same output, like so:
+You have the option to also create a sort of divider between sections. To create the divider,**you can use either three `***` `ASTERISKS`, three `---` `HYPHENS`, or three `___` `UNDERSCORES`**. All will have the same output, like so:
 
 ```
 First
