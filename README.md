@@ -543,6 +543,10 @@ And sometimes, it's just nice to add pretty little pictures to your GitHub proje
 
 To add an image, **Add an `!` `EXCLAMATION MARK` with some `alt text` in `[ ]` `SQUARE BRACKETS`, and the `URL` inside the `( )` `PARENTHESIS` followed by a title in `" "` `QUOTATION MARKS`** like so:
 
+```
+![Grumpy Cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17tGThNGO41sKEI3iGzLnvY_PjAj3v-p0zPPMedaqgo0TWcOZQipS9WZ8&s=10 "Grumpy Cat")
+```
+
 ![Grumpy Cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17tGThNGO41sKEI3iGzLnvY_PjAj3v-p0zPPMedaqgo0TWcOZQipS9WZ8&s=10 "Grumpy Cat")
 
 Now you are probably thinking ***"This picture is way too big! How do I fix it?!"***
