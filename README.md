@@ -11,11 +11,9 @@ I will be frank: at best, official technical documentation is usually dry, overw
   <img width="224" height="500" alt="NOBODY READS THE MANUAL" src="https://github.com/user-attachments/assets/fe771af5-f285-4bc1-a7c0-ba87bb7f06f2"/> 
 </p>
 
-Living with the struggle of ADHD (Attention-Deficit Hyperactive Disorder) made me realize sometimes we just need the essentials, and fast. Too many guides tend to overwhelm beginners, myself included (and I'm a tech guy), with loads of word salad and lack of pretty pictures (media literacy joke mind you).
+Living with the struggle of ADHD (Attention-Deficit Hyperactive Disorder) made me realize sometimes we just need the essentials, and fast. Too many guides tend to overwhelm beginners, myself included (and I'm a tech guy), with loads of word salad. 
 
-That is why I wrote this GitHub Documentation README as my first personal Github Repository. Adhering to the classic engineering principle of K.I.S.S. (Keep It Simple, Stupid), this ancient art was passed down to me by my father, and his father, and our forefathers. This repository serves as a streamlined TL;DR guide for GitHub-Flavored Markdown.
-
-Whether you are looking to clean up your own repository presentation or just need a quick formatting sanity check, this guide will hopefully strip away the amount of word-salad to give you exactly what you need to know (in Markdown and in HTML where applicable), and what it looks like in practice. 
+That is why I wrote this GitHub Documentation README as my first personal Github Repository. Adhering to the classic engineering principle of K.I.S.S. (Keep It Simple, Stupid), whether you are looking to clean up your own repository presentation or just need a quick formatting sanity check, this guide will hopefully strip away the amount of word-salad to give you exactly what you need to know (in Markdown and in HTML where applicable), and what it looks like in practice. 
 
 **NOTE: IF YOU WOULD LIKE TO PRACTICE THIS IN REAL TIME, I HIGHLY RECOMMEND USING JBT'S LIVE GFM EDITOR**
 
