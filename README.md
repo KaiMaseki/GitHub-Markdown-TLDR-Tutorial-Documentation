@@ -18,8 +18,10 @@ That is why I wrote this GitHub Documentation README as my first personal Github
 **NOTE: IF YOU WOULD LIKE TO PRACTICE THIS IN REAL TIME, I HIGHLY RECOMMEND USING JBT'S LIVE GFM EDITOR**
 
 <p align="center">
-  <a href="https://jbt.github.io/markdown-editor"><strong>HOLD CTRL AND CLICK HERE TO OPEN JBT'S LIVE GFM EDITOR</strong></a>
+  <a href="https://jbt.github.io/markdown-editor"><strong>CTRL-CLICK HERE TO OPEN THE LIVE EDITOR</strong></a>
 </p>
+
+#### ORIGINAL SOURCE - https://github.com/jbt/markdown-editor
 
 <a name="table-of-contents"></a>
 ## TABLE OF CONTENTS
