@@ -21,8 +21,6 @@ That is why I wrote this GitHub Documentation README as my first personal Github
   <a href="https://jbt.github.io/markdown-editor"><strong>HOLD CTRL AND CLICK HERE TO OPEN JBT'S LIVE GFM EDITOR</strong></a>
 </p>
 
-I do hope this helps you all along with how I learned everything by writing this documentation and TLDR guide.
-
 <a name="table-of-contents"></a>
 ## TABLE OF CONTENTS
 * [Introduction](#introduction)
