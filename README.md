@@ -724,7 +724,7 @@ To make an unordered list with hyphens, simply **type the `-` `HYPHEN KEY`, a `+
 * Urordered List 14
 * Unordered List 15
 
-You can also use HTML's `<ul>` `UNORDERDD LIST` tag like so:
+You can also use HTML's `<ul>` `UNORDERD LIST` tag like so:
 
 ```
 <ul>
