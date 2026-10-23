@@ -11,8 +11,6 @@ I will be frank: at best, official technical documentation is usually dry, overw
   <img width="224" height="500" alt="NOBODY READS THE MANUAL" src="https://github.com/user-attachments/assets/fe771af5-f285-4bc1-a7c0-ba87bb7f06f2"/> 
 </p>
 
-We all have seen how attention spans have been dwindling the last several decades, so I do not put any blame upon others who just wish to figure out things as quickly as possible—like trying to figure out how to format clean repository layouts, making a text block stand out, and the other basic features of GitHub Markdown. In my humble but honest opinion, you do not need a novel breakdown of obscure syntax edge cases, nor reading the manual (BLASPHEMY!) or pages of a website. 
-
 Living with the struggle of ADHD (Attention-Deficit Hyperactive Disorder) made me realize sometimes we just need the essentials, and fast. Too many guides tend to overwhelm beginners, myself included (and I'm a tech guy), with loads of word salad and lack of pretty pictures (media literacy joke mind you).
 
 That is why I wrote this GitHub Documentation README as my first personal Github Repository. Adhering to the classic engineering principle of K.I.S.S. (Keep It Simple, Stupid), this ancient art was passed down to me by my father, and his father, and our forefathers. This repository serves as a streamlined TL;DR guide for GitHub-Flavored Markdown.
